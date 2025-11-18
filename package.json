@@ -16,18 +16,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/faahim/happy-birthday.git"
+    "url": "git+https://github.com/jhhemal/for-rinvi.git"
   },
   "keywords": [
     "Happy",
     "Birthday"
   ],
-  "author": "Afiur Rahman Fahim",
-  "modification": "GovindCodes",
+  "author": "Jahidul Hasan Hemal",
+  "modification": "jhhemal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/faahim/happy-birthday/issues"
+    "url": "https://github.com/jhhemal/for-rinvi/"
   },
-  "homepage": "https://github.com/faahim/happy-birthday#readme",
+  "homepage": "https://github.com/jhhemal/for-rinvi/",
   "dependencies": {}
 }
